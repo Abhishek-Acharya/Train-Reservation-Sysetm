@@ -10,5 +10,3 @@ Agent & user can:
   - View bookings.
   - Cancel bookings.
   - Update bookings.
-
-  
